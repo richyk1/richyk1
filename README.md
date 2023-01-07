@@ -1,7 +1,7 @@
 Greatest programmer to ever touch planet Earth.
 -----------------------------------------------
 
-[![wakatime](https://wakatime.com/badge/github/richyk1/richyk1.svg)](https://wakatime.com/badge/github/richyk1/richyk1)
+[![wakatime](https://wakatime.com/badge/user/9c879907-93e9-447c-ac02-fb627321383d.svg)](https://wakatime.com/@9c879907-93e9-447c-ac02-fb627321383d)
 
 My sensei is called TheNewBoston. Check his Youtube channel out - https://www.youtube.com/@thenewboston. My weakest points are areas with machine learning, hardware, and networking.
 
