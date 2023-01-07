@@ -4,7 +4,7 @@ Greatest programmer to ever touch planet Earth.
 My sensei is called TheNewBoston. Check his Youtube channel out - https://www.youtube.com/@thenewboston. My weakest points are areas with machine learning, hardware, and networking.
 
 * 🌍  I'm based in Europe
-* ✉️  You can contact me at [koolkid#9999 on Discord](mailto:koolkid#9999 on Discord)
+* ✉️  You can contact me at [koolkid#9999 on Discord]
 * 🚀  I'm currently working on [Zeeds](http://www.zeedsapp.com/)
 * 🧠  I'm learning GraphQL, PostgreSQL, JWT Tokens and complicated tricky backend stuff
 * 🤝  I'm open to collaborating on anything to do with binary exploitation or project that are going to bring me the big 💶
