@@ -1,16 +1,11 @@
-Greatest programmer to ever touch planet Earth.
------------------------------------------------
-
 [![wakatime](https://wakatime.com/badge/user/9c879907-93e9-447c-ac02-fb627321383d.svg)](https://wakatime.com/@9c879907-93e9-447c-ac02-fb627321383d)
 
-My sensei is called TheNewBoston. Check his Youtube channel out - https://www.youtube.com/@thenewboston. My weakest points are areas with machine learning, hardware, and networking.
+Check out TheNewBoston. Check his Youtube channel out - https://www.youtube.com/@thenewboston. He teached me how to program. My weakest points are areas with machine learning, hardware, and networking.
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [koolkid#9999 on Discord]
-* 🚀  I'm currently working on [Zeeds](http://www.zeedsapp.com/)
-* 🧠  I'm learning GraphQL, PostgreSQL, JWT Tokens and complicated tricky backend stuff
-* 🤝  I'm open to collaborating on anything to do with binary exploitation or project that are going to bring me the big 💶
-* ⚡  sbd (kg) - 200/150/200, bh&bw - 193cm at 92 kg
+* 🚀  Currently fascinated by binary reverse engineering and fast code.
+* 🤝  I'm open to collaborating on anything to do with binary exploitation. Learning how to obfuscate code with custom instruction sets via virtual machines would be dope.
 
 ### Skills
 
