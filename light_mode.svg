@@ -55,8 +55,8 @@ text, tspan {white-space: pre;}
 <tspan x="418" y="410"></tspan>
 <tspan x="418" y="430">- GitHub Stats<tspan class="cc"> ───────────────────────────────────────────────</tspan></tspan>
 <tspan x="418" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">73</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="418" y="470"><tspan class="cc">. </tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">59</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">8</tspan></tspan>
-<tspan x="418" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">2,537</tspan> | <tspan class="key">Contribs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">5,571</tspan></tspan>
-<tspan x="418" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">488,853 ( </tspan><tspan class="add">761,735++</tspan><tspan class="value">, </tspan><tspan class="dele">272,882--</tspan><tspan class="value"> )</tspan></tspan>
+<tspan x="418" y="470"><tspan class="cc">. </tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">56</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">8</tspan></tspan>
+<tspan x="418" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">2,509</tspan> | <tspan class="key">Contribs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">5,567</tspan></tspan>
+<tspan x="418" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">487,583 ( </tspan><tspan class="add">760,033++</tspan><tspan class="value">, </tspan><tspan class="dele">272,450--</tspan><tspan class="value"> )</tspan></tspan>
 </text>
 </svg>
