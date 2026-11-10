@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1028px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1028px" height="510px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #cba6f7;} .value {fill: #89dceb;} .cc {fill: #585b70;} .add {fill: #a6e3a1;} .dele {fill: #f38ba8;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1028px" height="530px" fill="#1e1e2e" rx="15"/>
+<rect width="1028px" height="510px" fill="#1e1e2e" rx="15"/>
 <text>
 <tspan x="15" y="30"></tspan>
 <tspan x="15" y="50"></tspan>
@@ -33,30 +33,29 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490"> <tspan fill="#0f8">.</tspan><tspan fill="#888">...............</tspan><tspan fill="#f01">:</tspan><tspan fill="#f00">--</tspan><tspan fill="#e21">=</tspan><tspan fill="#e11">=</tspan><tspan fill="#f00">-=--:.</tspan><tspan fill="#888">....        </tspan></tspan>
 </text>
 <text fill="#cdd6f4">
-<tspan x="418" y="30">koolkid@richyk1<tspan class="cc"> ──────────────────────────────────────────────</tspan></tspan>
-<tspan x="418" y="50"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">12 years, 2 months, 5 days</tspan></tspan>
-<tspan x="418" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">Europe</tspan></tspan>
-<tspan x="418" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Binary reverse engineering</tspan></tspan>
-<tspan x="418" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">phenom</tspan></tspan>
+<tspan x="418" y="30">koolkid<tspan class="cc"> ──────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="418" y="50"><tspan class="cc">. </tspan><tspan class="key">uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">12 years, 2 months, 5 days</tspan></tspan>
+<tspan x="418" y="70"><tspan class="cc">. </tspan><tspan class="key">host</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">europe</tspan></tspan>
+<tspan x="418" y="90"><tspan class="cc">. </tspan><tspan class="key">kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">decompiled, not compiled</tspan></tspan>
+<tspan x="418" y="110"><tspan class="cc">. </tspan><tspan class="key">shell</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">shellcode</tspan></tspan>
 <tspan x="418" y="130"><tspan class="cc">.</tspan></tspan>
-<tspan x="418" y="150"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">C, C++, C#, Rust</tspan></tspan>
-<tspan x="418" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Scripting</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, TypeScript, JavaScript</tspan></tspan>
-<tspan x="418" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">React, Next.js, Node.js, GraphQL</tspan></tspan>
+<tspan x="418" y="150"><tspan class="cc">. </tspan><tspan class="key">languages</tspan>.<tspan class="key">systems</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">c++, go, rust</tspan></tspan>
+<tspan x="418" y="170"><tspan class="cc">. </tspan><tspan class="key">languages</tspan>.<tspan class="key">scripting</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">python, typescript</tspan></tspan>
+<tspan x="418" y="190"><tspan class="cc">. </tspan><tspan class="key">languages</tspan>.<tspan class="key">web</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">react, node.js</tspan></tspan>
 <tspan x="418" y="210"><tspan class="cc">.</tspan></tspan>
-<tspan x="418" y="230"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Now</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Binary RE, fast code</tspan></tspan>
-<tspan x="418" y="250"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Collab</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Binary exploitation, VM obfuscation</tspan></tspan>
-<tspan x="418" y="270"><tspan class="cc">. </tspan><tspan class="key">Debuffs</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Machine learning, hardware, networking</tspan></tspan>
-<tspan x="418" y="290"><tspan class="cc">. </tspan><tspan class="key">Trained</tspan>.<tspan class="key">By</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">TheNewBoston</tspan></tspan>
+<tspan x="418" y="230"><tspan class="cc">. </tspan><tspan class="key">interests</tspan>.<tspan class="key">now</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">binary re, fast code</tspan></tspan>
+<tspan x="418" y="250"><tspan class="cc">. </tspan><tspan class="key">interests</tspan>.<tspan class="key">collab</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">binary exploitation, vm obfuscation</tspan></tspan>
+<tspan x="418" y="270"><tspan class="cc">. </tspan><tspan class="key">debuffs</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">machine learning, hardware, networking</tspan></tspan>
+<tspan x="418" y="290"><tspan class="cc">. </tspan><tspan class="key">trained</tspan>.<tspan class="key">by</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">thenewboston</tspan></tspan>
 <tspan x="418" y="310"></tspan>
-<tspan x="418" y="330">- Contact<tspan class="cc"> ────────────────────────────────────────────────────</tspan></tspan>
-<tspan x="418" y="350"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">koolkid#9999</tspan></tspan>
-<tspan x="418" y="370"><tspan class="cc">. </tspan><tspan class="key">StackOverflow</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">users/9256754</tspan></tspan>
-<tspan x="418" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">richyk1</tspan></tspan>
-<tspan x="418" y="410"></tspan>
-<tspan x="418" y="430">- GitHub Stats<tspan class="cc"> ───────────────────────────────────────────────</tspan></tspan>
-<tspan x="418" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">73</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="418" y="470"><tspan class="cc">. </tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">56</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">8</tspan></tspan>
-<tspan x="418" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">2,509</tspan> | <tspan class="key">Contribs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">5,567</tspan></tspan>
-<tspan x="418" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">487,583 ( </tspan><tspan class="add">760,033++</tspan><tspan class="value">, </tspan><tspan class="dele">272,450--</tspan><tspan class="value"> )</tspan></tspan>
+<tspan x="418" y="330">- contact<tspan class="cc"> ────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="418" y="350"><tspan class="cc">. </tspan><tspan class="key">discord</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">koolkid#9999</tspan></tspan>
+<tspan x="418" y="370"><tspan class="cc">. </tspan><tspan class="key">github</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">richyk1</tspan></tspan>
+<tspan x="418" y="390"></tspan>
+<tspan x="418" y="410">- github stats<tspan class="cc"> ───────────────────────────────────────────────</tspan></tspan>
+<tspan x="418" y="430"><tspan class="cc">. </tspan><tspan class="key">repos</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">73</tspan> | <tspan class="key">stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="418" y="450"><tspan class="cc">. </tspan><tspan class="key">contributed</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">59</tspan> | <tspan class="key">followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">8</tspan></tspan>
+<tspan x="418" y="470"><tspan class="cc">. </tspan><tspan class="key">commits</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">2,538</tspan> | <tspan class="key">contribs</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">5,572</tspan></tspan>
+<tspan x="418" y="490"><tspan class="cc">. </tspan><tspan class="key">lines of code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">489,278 ( </tspan><tspan class="add">762,214++</tspan><tspan class="value">, </tspan><tspan class="dele">272,936--</tspan><tspan class="value"> )</tspan></tspan>
 </text>
 </svg>
