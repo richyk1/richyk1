@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
 </text>
 <text fill="#4c4f69">
 <tspan x="418" y="30">koolkid<tspan class="cc"> ──────────────────────────────────────────────────────</tspan></tspan>
-<tspan x="418" y="50"><tspan class="cc">. </tspan><tspan class="key">uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">12 years, 2 months, 22 days</tspan></tspan>
+<tspan x="418" y="50"><tspan class="cc">. </tspan><tspan class="key">uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">12 years, 2 months, 23 days</tspan></tspan>
 <tspan x="418" y="70"><tspan class="cc">. </tspan><tspan class="key">host</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">europe</tspan></tspan>
 <tspan x="418" y="90"><tspan class="cc">. </tspan><tspan class="key">kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">decompiled, not compiled</tspan></tspan>
 <tspan x="418" y="110"><tspan class="cc">. </tspan><tspan class="key">shell</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">shellcode</tspan></tspan>
